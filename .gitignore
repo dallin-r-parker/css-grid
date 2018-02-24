@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+hater
+.idea
+.code
+.vs_code
+.vscode
